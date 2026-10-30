@@ -1,0 +1,19 @@
+Guest=maryam | Phone=01234567891 | Room=Presidential Suite | Check-in=2026-10-17 | Check-out=2026-10-18 | Guests=2 | Nights=1 | Total PKR=95,000
+Guest=ayesha | Phone=078654321 | Room=Presidential Suite | Check-in=2026-10-17 | Check-out=2026-10-19 | Guests=4 | Nights=2 | Total PKR=190,000
+Guest=ayesha | Phone=078654321 | Room=Presidential Suite | Check-in=2026-10-17 | Check-out=2026-10-21 | Guests=4 | Nights=4 | Total PKR=380,000
+Contact=wungsung wangro | Phone=03282715975 | Item=Presidential Suite | Start=2026-10-17 | End=2026-10-18 | Guests=4 | Days=1 | Estimated total PKR=200,000 | Payment=JazzCash / Easypaisa (demo only)
+Contact=zara | Phone=0350099334 | Item=Grand Ballroom | Start=2026-10-17 | End=2026-10-18 | Guests=600 | Days=1 | Estimated total PKR=400,000 | Payment=Debit/Credit card (demo only)
+Contact=zara | Phone=0350099334 | Item=Deluxe Room | Start=2026-10-17 | End=2026-10-18 | Guests=3 | Days=1 | Estimated total PKR=35,000 | Payment=Pay at hotel (cash)
+Contact=zara | Phone=0350099334 | Item=Deluxe Room | Start=2026-10-17 | End=2026-10-18 | Guests=3 | Days=1 | Estimated total PKR=35,000 | Payment=Pay at hotel (cash)
+Contact=ZARA | Phone=03215678933 | Item=Standard Room (Unit ST-01) | Start=2026-10-18 | End=2026-10-19 | Guests=2 | Days=1 | Estimated total PKR=25,000 | Payment=Pay at hotel (cash) | Time=09:00-10:00 | Unit=ST-01
+Contact=ZARA | Phone=03987654321 | Item=Standard Room (Unit ST-02) | Start=2026-10-18 | End=2026-10-19 | Guests=2 | Days=1 | Estimated total PKR=25,000 | Payment=Pay at hotel (cash) | Time=09:00-10:00 | Unit=ST-02
+Contact=Ayesha | Phone=03124576690 | Item=Family Room (Unit FM-01) | Start=2026-10-18 | End=2026-10-19 | Guests=4 | Days=1 | Estimated total PKR=60,000 | Payment=Pay at hotel (cash) | Time=09:00-10:00 | Unit=FM-01
+Contact=Ayesha | Phone=03124576690 | Item=Family Room (Unit FM-02) | Start=2026-10-18 | End=2026-10-19 | Guests=4 | Days=1 | Estimated total PKR=60,000 | Payment=Pay at hotel (cash) | Time=09:00-10:00 | Unit=FM-02
+Contact=Maryam | Phone=0358172639 | Item=Conference Room (Unit CR-01) | Start=2026-10-25 | End=2026-10-26 | Guests=4 | Days=1 | Estimated total PKR=150,000 | Payment=Bank transfer (demo only) | Time=09:00-12:00 | Unit=CR-01
+Contact=Ali | Phone=0543218965 | Item=Junior Suite (Unit JS-01) | Start=2026-10-18 | End=2026-10-19 | Guests=2 | Days=1 | Estimated total PKR=75,000 | Payment=Debit/Credit card (demo only) | Time=09:00-10:00 | Unit=JS-01
+Contact=Ali | Phone=0543218965 | Item=Junior Suite (Unit JS-02) | Start=2026-10-18 | End=2026-10-19 | Guests=2 | Days=1 | Estimated total PKR=75,000 | Payment=Debit/Credit card (demo only) | Time=09:00-10:00 | Unit=JS-02
+Contact=ALI | Phone=09765432198 | Item=Standard Room (Unit ST-02) | Start=2026-10-18 | End=2026-10-19 | Guests=1 | Days=1 | Estimated total PKR=25,000 | Payment=JazzCash / Easypaisa (demo only) | Time=09:00-10:00 | Unit=ST-02
+Contact=AMNA | Phone=0213478921 | Item=Standard Room (Unit ST-03) | Start=2026-10-18 | End=2026-10-19 | Guests=2 | Days=1 | Estimated total PKR=25,000 | Payment=Bank transfer (demo only) | Time=09:00-10:00 | Unit=ST-03
+Contact=ALINA | Phone=03216783921 | Item=Deluxe Room (Unit DL-01) | Start=2026-11-22 | End=2026-11-25 | Guests=2 | Days=3 | Estimated total PKR=105,000 | Payment=Bank transfer (demo only) | Time=09:00-10:00 | Unit=DL-01
+Contact=AHAD | Phone=03214588328 | Item=Standard Room (Unit ST-01) | Start=2026-12-18 | End=2026-12-19 | Guests=1 | Days=1 | Estimated total PKR=25,000 | Payment=Bank transfer (demo only) | Time=09:00-10:00 | Unit=ST-01
+Contact=Nazish | Phone=099982223245 | Item=Executive Room (Unit EX-01) | Start=2026-11-01 | End=2026-11-15 | Guests=2 | Days=14 | Estimated total PKR=630,000 | Payment=JazzCash / Easypaisa (demo only) | Time=09:00-10:00 | Unit=EX-01

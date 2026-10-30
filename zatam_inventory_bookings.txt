@@ -1,0 +1,8 @@
+ZARA|03215678933|Standard Room|2026-10-18|2026-10-19|09:00|10:00|ST-01|Pay at hotel (cash)|2
+Ayesha|03124576690|Family Room|2026-10-18|2026-10-19|09:00|10:00|FM-01|Pay at hotel (cash)|4
+Maryam|0358172639|Conference Room|2026-10-25|2026-10-26|09:00|12:00|CR-01|Bank transfer (demo only)|4
+Ali|0543218965|Junior Suite|2026-10-18|2026-10-19|09:00|10:00|JS-01|Debit/Credit card (demo only)|2
+ALI|09765432198|Standard Room|2026-10-18|2026-10-19|09:00|10:00|ST-02|JazzCash / Easypaisa (demo only)|1
+AMNA|0213478921|Standard Room|2026-10-18|2026-10-19|09:00|10:00|ST-03|Bank transfer (demo only)|2
+ALINA|03216783921|Deluxe Room|2026-11-22|2026-11-25|09:00|10:00|DL-01|Bank transfer (demo only)|2
+Nazish|099982223245|Executive Room|2026-11-01|2026-11-15|09:00|10:00|EX-01|JazzCash / Easypaisa (demo only)|2
